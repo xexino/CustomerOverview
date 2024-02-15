@@ -1,0 +1,14 @@
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\bin\Debug\net8.0\CourseReportEmailer.exe
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\bin\Debug\net8.0\CourseReportEmailer.deps.json
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\bin\Debug\net8.0\CourseReportEmailer.runtimeconfig.json
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\bin\Debug\net8.0\CourseReportEmailer.dll
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\bin\Debug\net8.0\CourseReportEmailer.pdb
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.AssemblyInfoInputs.cache
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.AssemblyInfo.cs
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.csproj.CoreCompileInputs.cache
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.dll
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\refint\CourseReportEmailer.dll
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.pdb
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\CourseReportEmailer.genruntimeconfig.cache
+C:\OrellyPathC#\CustomerORderViewer2.0\Course Report Emailer\Course Report Emailer\obj\Debug\net8.0\ref\CourseReportEmailer.dll

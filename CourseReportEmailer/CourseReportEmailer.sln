@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseReportEmailer", "Course Report Emailer\CourseReportEmailer.csproj", "{A42EC464-18CD-4F4C-899D-5024D33F7F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42EC464-18CD-4F4C-899D-5024D33F7F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42EC464-18CD-4F4C-899D-5024D33F7F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42EC464-18CD-4F4C-899D-5024D33F7F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42EC464-18CD-4F4C-899D-5024D33F7F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C077CA-3F5D-4311-A8B9-947705603EFD}
+	EndGlobalSection
+EndGlobal
